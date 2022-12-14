@@ -22,4 +22,4 @@ Repositorio que contiene la base para iniciar con documentacioón documentada pa
     ```bash
     npm run build
     ```
-    Este comando genera un directorio ./ build. Este directorio contiene todos los recursos estaticos del sistema de documentación. Copiarlos a un directorio estático en el servidor HTTP de su predileccion como Apache o Nginx
+    Este comando genera un directorio ./build. Este directorio contiene todos los recursos estáticos del sistema de documentación. Copiarlos a un directorio en el servidor HTTP de su predilección como Apache o Nginx
