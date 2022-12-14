@@ -6,7 +6,7 @@ Repositorio que contiene la base para iniciar con documentacioón documentada pa
 
 ## Instrucciones
 1. Tener instalado previamente Node
-2. Clonar el repositorio
+2. Clonar el repositorio. En la consola ingresar:
     ```bash
     git clone https://github.com/GrupoElColombiano/SistemaDocumentacion.git
     ```
