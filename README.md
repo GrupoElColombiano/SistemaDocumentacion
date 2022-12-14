@@ -17,7 +17,7 @@ Repositorio que contiene la base para iniciar con documentacioón documentada pa
     ```
 4. Iniciar VS Code o su IDE favorito y abrir el directorio ./SistemaDocumentacion:
     - En el archivo ubicado en la ruta ./docs/.vitepress/config.js se encuentra la configuracion general de la interfaz de usuario como el menu, menu lateral, logo y temas (estilos)
-5. El sistema soportaa MD y HTML. El enerutamiento es basado en archivos.
+5. El sistema soporta MD y HTML. El enrutamiento es basado en el sistema de archivos.
 6. Para publicar la documentacion primero ingresar a consola:
     ```bash
     npm run build
